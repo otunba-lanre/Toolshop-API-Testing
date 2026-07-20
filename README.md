@@ -1,4 +1,4 @@
-# Toolshop API Testing
+# Toolshop API Automation Testing
 
 ## Project Overview
 
